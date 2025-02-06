@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm JdjdanieAsst0wnpnthony
 
-<!--
-**JdjdanieAsst0wnpnthony/JdjdanieAsst0wnpnthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎪 🛹 🎽 🏄 Enthusiastic about technical writing 🎪 🛹 🎽 🏄
 
-Here are some ideas to get you started:
+## About Me
+🏊 🛹 🥊 🎮 Addicted to game development 🏊 🛹 🥊 🎮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎪 🎳 🎸 A professional in frameworks 🎪 🎳 🎸
+
+### Fun Facts
+✨ 🎹 🏒 🌟 A developer in artificial intelligence ✨ 🎹 🏒 🌟
+
+---
+🎾 🏊 🎪 🥊 🥊 Thanks for visiting my profile! 🚴 🎤 🎮 🥊 🎸
